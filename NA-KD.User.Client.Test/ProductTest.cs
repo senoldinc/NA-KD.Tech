@@ -26,7 +26,7 @@ namespace NA_KD.User.Client.Test
 
             //assert
             Assert.NotNull(serviceResult);
-            Assert.Equal(serviceResult.StatusCode, HttpStatusCode.OK);
+            Assert.Equal(serviceResult.StatusCode, HttpStatusCode.NoContent);
         }
 
         [Fact]

@@ -63,7 +63,7 @@ namespace NA_KD.User.Client
                                                                    Description = product.Description
                                                                 });
 
-                        if (addProductResult.StatusCode == System.Net.HttpStatusCode.OK)
+                        if (addProductResult.StatusCode == System.Net.HttpStatusCode.NoContent)
                         {
                             Console.Write("Product added to wish list.");
                         }
