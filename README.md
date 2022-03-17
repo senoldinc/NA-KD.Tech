@@ -1,7 +1,7 @@
 # NA-KD.Tech
 Na-Kd.Tech is c# .net console application.
 
-#User Creation
+# User Creation
 As a User
 I want to be able to create a customer
 So that I can keep track of wish list products
