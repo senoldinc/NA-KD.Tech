@@ -8,4 +8,24 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Controller\" />
+    <None Remove="ViewModel\" />
+    <None Remove="Model\" />
+    <None Remove="Model\Customer\" />
+    <None Remove="Model\Product\" />
+    <None Remove="RestSharp" />
+    <None Remove="Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controller\" />
+    <Folder Include="ViewModel\" />
+    <Folder Include="Model\" />
+    <Folder Include="Model\Customer\" />
+    <Folder Include="Model\Product\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="107.3.0" />
+  </ItemGroup>
 </Project>
