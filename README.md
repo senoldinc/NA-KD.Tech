@@ -22,6 +22,8 @@ So that I don’t see the products that I am not interested anymore
 - Visual Studio 2022
 - .NET 6.0
 - C#
+- Xunit Test
+- Restsharp
 
 Open the projects Visual Studio 2022 and select the multiple startup and be sure run the client and services projects.
 
