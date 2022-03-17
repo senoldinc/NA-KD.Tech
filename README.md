@@ -1,17 +1,17 @@
 # NA-KD.Tech
 Na-Kd.Tech is c# .net console application.
 
-# User Creation
+### User Creation ###
 As a User
 I want to be able to create a customer
 So that I can keep track of wish list products
 
-#Add product to Wish List
+### Add product to Wish List ###
 As a User
 I want to be able to add a product to a customer’s wish list
 So that I can see the wished products
 
-#Remove Product to Wish List
+### Remove Product to Wish List ###
 As a User
 I want to be able to remove a product from the customer’s wish list
 So that I don’t see the products that I am not interested anymore
